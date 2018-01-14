@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+
+.info{
+  height: 700px;
+  font-family: "Alegreya";
+  padding-left: 20px;
+  text-align: center;
+}
+.images{
+  height:  350px;
+  padding-right: 20px;
+}
+p{
+  font-size: 30px;
+}
+
+h1{
+  padding-top: 20px;
+  font-size: 64px;
+}

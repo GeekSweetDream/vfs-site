@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+.tech{
+  margin-top: 40px;
+  text-align: center;
+}
+.line{
+  color: #7b8a9c;
+  width: 650px;
+}
+.slide{
+  align-items: center;
+  width: 800px;
+  height: 400px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.carousel-control-next-icon {
+      background-image: url("right.svg");
+  }
+
+.carousel-control-prev-icon {
+  background-image: url("left.svg");
+}
+h1{
+  font-family: "Alegreya";
+  font-size: 36px;
+}

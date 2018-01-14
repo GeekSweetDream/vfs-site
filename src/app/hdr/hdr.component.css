@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+.textlogo{
+  padding-top: 20px;
+  text-align: center;
+}
+.logo{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h1{
+  font-family: "Pacifico";
+  margin-bottom: 20px;
+}

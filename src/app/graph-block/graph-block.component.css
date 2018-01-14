@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+h1{
+  margin-top: 40px;
+  font-family: "Alegreya";
+  text-align: center;
+  font-size: 36px;
+}
+.line{
+  color: #7b8a9c;
+  width: 650px;
+}
+.graph{
+  margin-top: 70px;
+}
+.graph-bl{
+  height: 350px;
+  margin-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
